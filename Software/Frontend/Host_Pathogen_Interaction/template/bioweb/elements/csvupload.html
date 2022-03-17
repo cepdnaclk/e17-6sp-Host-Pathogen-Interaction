@@ -1,0 +1,16 @@
+<div class="uploadSection">
+    <div class="drag-area">
+        <label for="fileToUpload" style="cursor: pointer;">
+            <i class="fa fa-plus icon"></i>
+        </label>
+
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" accept=".csv,.tsv" id="fileToUpload" class="mybtn btn btn-info " name="myfile"><br>
+            <button type="submit" class="mybtn btn btn-info " width="100%">Upload</button>
+            <div class="support">Supports: CSV,TSV</div>
+
+
+        </form>
+    </div>
+</div>

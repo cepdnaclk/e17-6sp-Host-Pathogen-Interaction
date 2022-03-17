@@ -112,5 +112,7 @@ git clone https://github.com/cepdnaclk/e17-co328-Host-Pathogen-Interaction.git
 - step 05 - run server
     ```
     python manage.py runserver
+    ```
 Thank you
+
 

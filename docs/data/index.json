@@ -1,0 +1,46 @@
+{
+    "team": [
+        {
+            "name": "Thanujan T",
+            "email": "e17352@eng.pdn.ac.lk",
+            "eNumber": "E/17/352",
+            "github_profile":"#",
+            "linkedin_profile":"#",
+            "website": "#"
+        },
+        {
+            "name": "Rilwan M",
+            "email": "e17292@eng.pdn.ac.lk",
+            "eNumber": "E/17/292",
+            "github_profile":"#",
+            "linkedin_profile":"#",
+            "website": "#"
+        },
+        {
+            "name": "Varnaraj N",
+            "email": "e17358@eng.pdn.ac.lk",
+            "eNumber": "E/17/358",
+            "github_profile":"#",
+            "linkedin_profile":"#",
+            "website": "#"
+        },
+        {
+            "name": "Piriyaraj S",
+            "email": "e17256@eng.pdn.ac.lk",
+            "eNumber": "E/17/256",
+            "github_profile": "https://github.com/piriyaraj",
+            "linkedin_profile": "https://www.linkedin.com/in/piriyaraj",
+            "website": "https://spiriyaraj.blogspot.com"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Damayanthi herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "linkedin_profile":"#",
+            "researchgate_profile":"#",
+            "website": "#"
+        }
+    ],
+    "tags": ["Web Application", "Machine learning"]
+}
